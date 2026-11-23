@@ -1,0 +1,7 @@
+{
+  "command_id": 1,
+  "airplane_mode": 0,
+  "airplane_auto_off_seconds": 10,
+  "mobile_data": 1,
+  "ethernet_tethering": 1
+}
