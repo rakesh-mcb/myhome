@@ -1,7 +1,7 @@
 {
   "ver": 1,
-  "cmd": 1,
-  "air": 0,
+  "cmd": 2,
+  "air": 1,
   "air_off_sec": 10,
   "data": 1,
   "eth": 1
