@@ -1,8 +1,8 @@
 {
   "ver": 1,
-  "cmd": 4,
+  "cmd": 5,
   "air": 0,
   "air_off_sec": 10,
-  "data": 1,
+  "data": 0,
   "eth": 1
 }
